@@ -1,0 +1,11 @@
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\bin\Release\Ja-Projekt.exe.config
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\bin\Release\Ja-Projekt.exe
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\bin\Release\Ja-Projekt.pdb
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\x64Release\Ja-Projekt.exe.config
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\x64Release\Ja-Projekt.exe
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\x64Release\Ja-Projekt.pdb
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\obj\Release\Ja_Projekt.Form1.resources
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\obj\Release\Ja_Projekt.Properties.Resources.resources
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\obj\Release\Ja-Projekt.csproj.GenerateResource.Cache
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\obj\Release\Ja-Projekt.exe
+C:\Users\Tomasz\Documents\Visual Studio 2015\Projects\Ja-Projekt\Ja-Projekt\obj\Release\Ja-Projekt.pdb

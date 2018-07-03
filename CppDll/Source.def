@@ -1,0 +1,4 @@
+
+LIBRARY JA_cpp
+EXPORTS init_shift_cpp
+EXPORTS kmp_cpp
